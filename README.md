@@ -4,7 +4,7 @@ A command line program that translates text to Morse code and Morse code back to
 
 ## File
 
-- **step_3.py** - the full program, including the Morse code alphabet, translation functions, and the menu loop.
+- **Morse_Code_Translator** - the full program, including the Morse code alphabet, translation functions, and the menu loop.
 
 ## What it does
 
